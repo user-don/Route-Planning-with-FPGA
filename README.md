@@ -1,4 +1,4 @@
-# Route-Planning-with-FPGA
+# Hyper-Efficient Route Planning with an FPGA
 
 VHDL-based implementation of route-finding from point A to point B. Order of magnitude more efficient than code written for a generic CPU. 
 
